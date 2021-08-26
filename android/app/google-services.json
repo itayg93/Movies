@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "912780720283",
+    "project_id": "movies-inmanage",
+    "storage_bucket": "movies-inmanage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912780720283:android:b776b707e1677d43b92e3e",
+        "android_client_info": {
+          "package_name": "com.movies_inmanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912780720283-33rqifh35r3h60fpqiq3ic7chb0fnaau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movies_inmanage",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "912780720283-0hghmf8gt78flf5nfqimanu512jas5i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlBFlak5eOjDx1v7OW3WP_Kn5htH6u_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912780720283-0hghmf8gt78flf5nfqimanu512jas5i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
